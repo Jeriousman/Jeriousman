@@ -1,6 +1,6 @@
 
-<!-- Hojunnnnnn -->
 
+<!-- title --> 
 > 👨🏻‍💻 Machine Learning Research Engineer in South Korea 🇰🇷​
 
 ### Tech Stack
@@ -11,6 +11,8 @@
 
 ### Latest projects
 
+* Granule detection and size analysis
+* Intellectualizating automated coffee robot  
 > *pending...*
 
 
