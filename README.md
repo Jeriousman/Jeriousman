@@ -16,9 +16,6 @@
 > *pending...*
 
 
-### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
-
-> *pending...*
 
 ### Portfolio
 
